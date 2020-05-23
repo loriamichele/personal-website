@@ -1,11 +1,27 @@
 body {
   margin: 0;
   color: #fff;
-  font-size: 30pt;
-  background: #131313;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-size: 16pt;
+  font-family: "Raleway", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  font-size: 30pt;
+  line-height: 30pt;
+  font-weight: 500;
+}
+
+p {
+  line-height: 18pt;
+}
+
+strong {
+  font-weight: 700;
+}
+
+a {
+  color: #ffd356;
+  font-weight: 500;
 }
