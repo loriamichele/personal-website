@@ -1,0 +1,11 @@
+.header {
+  padding: 10px 15px;
+  border-bottom: 1px solid #555;
+}
+
+.logo {
+  position: absolute;
+  box-sizing: content-box;
+  top: 10px;
+  left: calc(50% - 29px);
+}

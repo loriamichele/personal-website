@@ -1,0 +1,17 @@
+.viewport-center {
+  top: 50%;
+  left: 50%;
+  width: 79vw;
+  position: absolute;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.dangling-text {
+  font-size: 12vw;
+}
+
+.dangling-text span {
+  display: inline-block;
+  overflow: hidden;
+}
